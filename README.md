@@ -4,7 +4,7 @@ Simple Powershell Scripts
 
 Here lies the more motivated side of my brain.
 
-Random --
+<h2>Random --</h2>
 
   Update-Putty: Updates putty, since it doesnt auto update. It is also able to unisntall older versions before 0.68 when they switched to having .msi installers available.
   
@@ -14,7 +14,7 @@ Random --
 
 
 
-<h2> WDS & MDT -- Used during deployment through Microsoft Deployment Toolkit </h2>
+<h2>WDS & MDT -- Used during deployment through Microsoft Deployment Toolkit </h2>
 
   Activate-PC: Attempts to active windows with the bios key, if not able to or key is not for that version of windows it looks for a .csv files with MAK/KMS keys.
   
