@@ -1,8 +1,6 @@
-# Yampa
-Simple Powershell scripts
+# Yampa - Simple Powershell scripts
 
 Here lies the more motivated side of my brain.
-\\
 
 
 <h2>Random --</h2>
