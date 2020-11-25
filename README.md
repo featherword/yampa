@@ -1,5 +1,5 @@
 # Yampa
-Simple Powershell Scripts
+Simple Powershell scripts
 
 
 Here lies the more motivated side of my brain.
